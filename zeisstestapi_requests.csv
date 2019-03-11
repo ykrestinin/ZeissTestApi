@@ -1,0 +1,6 @@
+"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
+"GET","/api/registry",27108,1363,460,1581,72,98761,88458,45.29
+"POST","/api/registry",13816,701,130,541,39,41337,22,23.08
+"GET","/api/registry/software",13606,689,150,836,32,77328,11970,22.73
+"GET","/api/status",13966,664,88,439,27,79245,120,23.33
+"None","Total",68496,3417,240,990,27,98761,37414,114.44
